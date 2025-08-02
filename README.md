@@ -1,4 +1,5 @@
-
+## Enlace con archivo personal 
+[["mi dcumento personal(https://docs.google.com/document/d/12fctGtk5zrL0H6RTI_UMOBFelWvFnxCvVNf7dSoj6Xk/edit?usp=sharing)]
 
 # Investigación sobre la Educación del Preceptor en Argentina - Provincia de Misiones
 
